@@ -1,6 +1,6 @@
-# Binaly Logic 
-
-## Truth Tables
-
-Not
-| A | !A | 
+| title |
+| --- |
+| A | !A |
+| --- | --- |
+| 1 | 0 |
+| 0 | 1 |
